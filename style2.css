@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{background-color: rgb(237, 237, 237);}
+img{
+    padding: auto;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 50%;
+}
+h1{
+    text-align: center;
+   margin-bottom: 5px;
+}
+hr{ height: 2px;
+  width: 70%;
+color: aqua;
+background-color: aqua;
+border-width:0;
+margin-left: 145px;
+
+}
+h3{margin-left: 150px;
+    color: red;
+}
+p{
+margin-left: 150px;
+}

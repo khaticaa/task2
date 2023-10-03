@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.margin{
+    width: 700px;
+    height: 300px;
+    padding: 30px;
+    margin: 20px;
+    border: 2px dashed gray;
+}
+.border{
+    width: 600px;
+    height: 230px;
+    border: 3px solid rgb(158, 154, 157);
+
+    margin: auto;
+    padding: auto;
+    
+   
+    
+}
+
+.padding{
+    margin: auto;
+  width: 500px;
+  height: 180px;
+border: 3px solid grey;
+margin-top: 20px;
+box-sizing: border-box;
+
+
+}
+.center{
+    width: 400px;
+    height: 100px;
+    border: 2px solid grey;
+    margin: auto;
+  box-sizing: border-box;
+  margin-top: 30px;
+}
